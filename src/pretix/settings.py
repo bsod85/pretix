@@ -404,7 +404,7 @@ LANGUAGES_OFFICIAL = {
     'en', 'de', 'de-informal'
 }
 LANGUAGES_INCUBATING = {
-    'pt-br', 'da', 'pl', 'it'
+    'pt-br', 'da', 'pl'
 }
 
 if DEBUG:

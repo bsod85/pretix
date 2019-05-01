@@ -15033,7 +15033,7 @@ msgstr ""
 #: pretix/presale/templates/pretixpresale/event/index.html:467
 #: pretix/presale/templates/pretixpresale/event/voucher.html:269
 msgid "Add to cart"
-msgstr ""
+msgstr "Aggiungi al carrello"
 
 #: pretix/presale/templates/pretixpresale/event/index.html:479
 msgid "Redeem a voucher"
@@ -15045,7 +15045,7 @@ msgstr ""
 
 #: pretix/presale/templates/pretixpresale/event/index.html:508
 msgid "If you already ordered a ticket"
-msgstr ""
+msgstr "Se hai già ordinato dei biglietti"
 
 #: pretix/presale/templates/pretixpresale/event/index.html:512
 msgid ""
@@ -15054,12 +15054,16 @@ msgid ""
 "cannot find the link, click on the following button to request the link to "
 "your order to be sent to you again."
 msgstr ""
+"Se vuoi vedere o cambiare lo stato e i dettagli del tuo ordine clicca sul "
+"collegamento in una delle email che ti abbiamo inviato nella fase di ordine. Se "
+"non trovi il link clicca sul tasto qui accanto per richiedere il reinvio "
+"dell'email."
 
 #: pretix/presale/templates/pretixpresale/event/index.html:521
 #: pretix/presale/templates/pretixpresale/event/resend_link.html:4
 #: pretix/presale/templates/pretixpresale/event/resend_link.html:7
 msgid "Resend order links"
-msgstr ""
+msgstr "Reinvia link ordine"
 
 #: pretix/presale/templates/pretixpresale/event/order.html:13
 msgid "Thank you!"
@@ -15067,7 +15071,7 @@ msgstr ""
 
 #: pretix/presale/templates/pretixpresale/event/order.html:16
 msgid "Your order has been placed successfully. See below for details."
-msgstr ""
+msgstr "Il tuo ordine è stato inviato con successo. Vedi sotto per i dettagli."
 
 #: pretix/presale/templates/pretixpresale/event/order.html:19
 msgid ""
